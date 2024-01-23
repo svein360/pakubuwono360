@@ -1,0 +1,15 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 3
+
+## Media
+
+### Title
+panorama_398545D8_3471_192D_4180_C2167C663C51.label = Pakubuwono_360_DraftFinal_Beauty0001
+panorama_39B07F37_3471_6963_41A2_84D12C8685CE.label = Pakubuwono_360_DraftFinal_Beauty0002
+panorama_39B3D941_3471_691F_41BF_C750F32B0F6D.label = Pakubuwono_360_DraftFinal_Beauty0003
