@@ -5,11 +5,36 @@
 ### Description
 
 ### Title
-tour.name = Untitled 3
+tour.name = Pakubuwono Apartment 360
 
 ## Media
 
 ### Title
+album_2D22948B_398A_C866_41B5_F3144286C8ED.label = Photo Album Pakubuwono_ViewMEV02_Draft
+album_2D22948B_398A_C866_41B5_F3144286C8ED_0.label = Pakubuwono_ViewMEV02_Draft
+album_2D22948B_398A_C866_41B5_F3144286C8ED_1.label = Pakubuwono_ViewMEV03_Draft
+album_2D22948B_398A_C866_41B5_F3144286C8ED_2.label = Pakubuwono_ViewMEV03_Draftb
 panorama_398545D8_3471_192D_4180_C2167C663C51.label = Pakubuwono_360_DraftFinal_Beauty0001
 panorama_39B07F37_3471_6963_41A2_84D12C8685CE.label = Pakubuwono_360_DraftFinal_Beauty0002
 panorama_39B3D941_3471_691F_41BF_C750F32B0F6D.label = Pakubuwono_360_DraftFinal_Beauty0003
+photo_29F8C2B0_3A6D_9482_41A4_F1965FC44A02.label = Pakubuwono_ViewMEV04_DraftFinal
+photo_29F8C2B0_3A6D_9482_41A4_F1965FC44A02.label = Pakubuwono_ViewMEV04_DraftFinal
+photo_29F90263_3A6C_7786_4189_506478E56B58.label = Pakubuwono_ViewMEV01_DraftFinal
+photo_29F90263_3A6C_7786_4189_506478E56B58.label = Pakubuwono_ViewMEV01_DraftFinal
+photo_29F90BBA_3A6C_9486_41B9_1583572B10BD.label = Pakubuwono_ViewBEV03AerialBotanic_DraftFinal
+photo_29F90BBA_3A6C_9486_41B9_1583572B10BD.label = Pakubuwono_ViewBEV03AerialBotanic_DraftFinal
+photo_29F90D8F_3A6C_6C9E_41B3_261CFB86C551.label = Pakubuwono_ViewMEV03_DraftFinal
+photo_29F90D8F_3A6C_6C9E_41B3_261CFB86C551.label = Pakubuwono_ViewMEV03_DraftFinal
+photo_29F92895_3A6C_748D_41C0_2E07C1C22B4B.label = Pakubuwono_ViewMEV02_DraftFinal
+photo_29F92895_3A6C_748D_41C0_2E07C1C22B4B.label = Pakubuwono_ViewMEV02_DraftFinal
+photo_29FB7622_3A6C_9F86_41CC_67BB7E78C6B4.label = Pakubuwono_ViewBEV02_DraftFinal
+photo_29FB7622_3A6C_9F86_41CC_67BB7E78C6B4.label = Pakubuwono_ViewBEV02_DraftFinal
+photo_2FA0907B_3A6C_9385_41AA_C878747BF412.label = Pakubuwono_ViewBEV01_DraftFinal
+photo_2FA0907B_3A6C_9385_41AA_C878747BF412.label = Pakubuwono_ViewBEV01_DraftFinal
+video_129287B8_3A64_BC82_41B7_0EF986187567.label = Pakubuwono_Urban+_Final_LowRes
+video_1BB9BE7C_3A64_AF83_41B9_38457C440E27.label = Pakubuwono
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_371AC89B_39AD_BC87_41C2_54898D655240.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5631.661745096641!2d116.69569597533733!3d-0.9735253876244125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2df6cf00104da381%3A0x3f6e0800c33a920d!2sThe%20Pakubuwono!5e1!3m2!1sen!2sid!4v1706070162164!5m2!1sen!2sid
